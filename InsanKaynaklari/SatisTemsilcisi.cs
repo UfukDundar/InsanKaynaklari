@@ -21,6 +21,5 @@ namespace InsanKaynaklari
             
             return maas;
         }
-
     }
 }
